@@ -1,0 +1,13 @@
+{
+  "name": "2025-advent-of-code",
+  "type": "module",
+  "scripts": {
+    "solve": "tsx",
+    "check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
